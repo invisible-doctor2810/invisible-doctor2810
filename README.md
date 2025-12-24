@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="assets/banner.gif" alt="banner" width="100%" />
+  <img src="assets/Bio.gif" alt="banner" width="100%" />
 </p>
 
 <--
