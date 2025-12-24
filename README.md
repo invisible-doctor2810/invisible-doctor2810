@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://github.com/invisible-doctor2810/invisible-doctor2810/blob/main/assets/Blo.gif?raw=1"
-       alt="banner"
-       width="100%"
-       height="220" />
+      />
 </p>
 
 
