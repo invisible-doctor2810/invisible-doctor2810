@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./assets/Blo.gif" alt="banner" width="100%" />
+  <img src="https://github.com/invisible-doctor2810/invisible-doctor2810/blob/main/assets/Bio.gif?raw=1" alt="banner" width="100%" />
 </p>
+
 
 
 ## Hi there 👋
