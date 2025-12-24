@@ -1,8 +1,8 @@
-## Hi there 👋
-
 <p align="center">
   <img src="assets/Bio.gif" alt="banner" width="100%" />
 </p>
+
+## Hi there 👋
 
 <--
 **invisible-doctor2810/invisible-doctor2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
