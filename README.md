@@ -1,4 +1,7 @@
-![til](./assets/Blo.gif)
+<p align="center">
+  <img src="./assets/Blo.gif" alt="banner" width="100%" />
+</p>
+
 
 ## Hi there 👋
 
