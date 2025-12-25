@@ -19,7 +19,10 @@ jobs:
           user: invisible-doctor2810
           filename: assets/metrics.svg
 
-          template: terminal
+          template: classic
+          config_display: large
+          config_timezone: Asia/Kolkata
+          config_twemoji: yes
 
           base: header, activity, community, repositories
           plugin_languages: yes
