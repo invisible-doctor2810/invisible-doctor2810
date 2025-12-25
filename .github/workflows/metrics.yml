@@ -19,7 +19,7 @@ jobs:
           filename: assets/metrics.svg
 
           # Theme:
-          config_theme: dracula
+          config_theme: tokyonight
           # try: tokyonight / github_dark / nord / monokai / dark
 
           base: header, activity, community, repositories
