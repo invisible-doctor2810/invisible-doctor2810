@@ -4,6 +4,14 @@
 
 <h2 align="center">ＢＯＯＴＩＮＧ　ＰＲＯＦＩＬＥ… ✅</h2>
 <p align="center"><code>INIT</code> → <code>LOAD</code> → <code>RUN</code></p>
+<p align="center">
+  <a href="#-about">About</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-featured-projects">Featured Projects</a> •
+  <a href="#-connect">Connect</a> •
+  <a href="#-stats">Stats</a>
+</p>
+
 
 <p align="center"><img src="./assets/neon_mid_orange.svg" width="100%" alt="divider"/></p>
 
@@ -50,6 +58,20 @@ I’m a CS + Data Science student who enjoys building efficient solutions and ma
 
 <p align="center"><img src="./assets/neon_mid_pink.svg" width="100%" alt="divider"/></p>
 
+<p align="center"><img src="./assets/hud-divider-purple.svg" width="100%" alt="divider"/></p>
+
+### 📊 Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=invisible-doctor2810&show_icons=true&rank_icon=github&hide_title=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisible-doctor2810&layout=compact&hide_title=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=invisible-doctor2810" />
+</p>
+
+<p align="center"><img src="./assets/neon_mid_orange.svg" width="100%" alt="divider"/></p>
+
 ### 🔗 Connect
 <p align="center">
   <a href="mailto:mudit1bhatnagar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -61,6 +83,8 @@ I’m a CS + Data Science student who enjoys building efficient solutions and ma
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+<p align="center"><img src="./assets/neon_bottom.svg" width="100%" alt="divider"/></p>
 
 <!--
 **invisible-doctor2810/invisible-doctor2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
