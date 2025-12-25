@@ -59,10 +59,6 @@ I’m a CS + Data Science student who enjoys building efficient solutions and ma
 <p align="center"><img src="./assets/neon_mid_pink.svg" width="100%" alt="divider"/></p>
 
 ### 📊 Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=invisible-doctor2810&show_icons=true&rank_icon=github&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisible-doctor2810&layout=compact&hide_title=true" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=invisible-doctor2810" />
