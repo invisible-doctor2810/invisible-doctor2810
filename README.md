@@ -1,9 +1,9 @@
 <p align="center"><img src="./assets/neon_top.svg" width="100%" alt="divider"/></p>
 <p align="center"><img src="https://github.com/invisible-doctor2810/invisible-doctor2810/blob/main/assets/Bio.gif?raw=1" alt="banner" width="100%" /></p>
+<p align="center"><img src="./assets/neon_mid_pink.svg" width="100%" alt="divider"/></p>
 
-
-
-## Hi there 👋
+<h2 align="center">Booting profile… ✅</h2>
+<p align="center"><code>invisible-doctor2810@github:~$</code> Welcome 👋</p>
 
 <!--
 **invisible-doctor2810/invisible-doctor2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
