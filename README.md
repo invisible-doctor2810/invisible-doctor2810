@@ -61,7 +61,7 @@ I’m a CS + Data Science student who enjoys building efficient solutions and ma
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=invisible-doctor2810" />
+  <img src="https://github.com/invisible-doctor2810/invisible-doctor2810/blob/main/assets/metrics.svg?raw=1" alt="metrics" />
 </p>
 
 <p align="center"><img src="./assets/neon_mid_orange.svg" width="100%" alt="divider"/></p>
