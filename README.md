@@ -37,6 +37,25 @@ I’m a CS + Data Science student who enjoys building efficient solutions and ma
 
 <p align="center"><img src="./assets/neon_mid_cyan.svg" width="100%" alt="divider"/></p>
 
+### 🚀 Featured Projects
+
+- ♟️ **AI Chess Bot** — best-move suggestions via Stockfish (hosted on Render), opening identification using the Lichess database, and natural-language reasoning via Gemini API.  
+  → [Repo](https://github.com/invisible-doctor2810)  
+
+- 🧠 **DSA Rebuild Lab** — rebuilding a clean, test-driven library of data structures + algorithms (arrays, linked lists, hashing, trees, graphs, DP) with complexity notes and benchmarking.  
+  → [Repo](#)
+
+- 🗃️ **SQL + Python Mini Projects** — small data workflows using MySQL and Python-integrated SQL (querying, joins, schema design), plus analysis/visualization in R/Python.  
+  → [Repo](#)
+
+<p align="center"><img src="./assets/neon_mid_pink.svg" width="100%" alt="divider"/></p>
+
+### 🔗 Connect
+<p align="center">
+  <a href="mailto:mudit1bhatnagar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mudit-bhatnagar-invisdoc/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
 <!--
 **invisible-doctor2810/invisible-doctor2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
