@@ -1,1 +1,37 @@
-gh
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28">
+  <defs>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#fb7185"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- main neon line -->
+  <line x1="40" y1="14" x2="1160" y2="14" stroke="url(#neon)" stroke-width="5"
+        stroke-linecap="round" filter="url(#glow)"/>
+
+  <!-- subtle reflection glow -->
+  <rect x="40" y="16" width="1120" height="10" fill="url(#fade)" opacity="0.25"/>
+
+  <!-- center "sun" dot -->
+  <circle cx="600" cy="14" r="5" fill="#ffffff" opacity="0.9" filter="url(#glow)"/>
+
+  <!-- tiny star dots -->
+  <circle cx="160" cy="10" r="2" fill="#22d3ee" opacity="0.8"/>
+  <circle cx="1040" cy="9" r="2" fill="#fb7185" opacity="0.75"/>
+  <circle cx="980" cy="18" r="1.5" fill="#a78bfa" opacity="0.8"/>
+</svg>
