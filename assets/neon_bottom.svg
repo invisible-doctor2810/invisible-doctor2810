@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90">
+  <defs>
+    <style>
+      :root { --neon: #ff2bd6; }
+    </style>
+
+    <filter id="neonGlow" x="-40%" y="-80%" width="180%" height="260%">
+      <feGaussianBlur stdDeviation="10" result="blur1"/>
+      <feColorMatrix in="blur1" type="matrix"
+        values="1 0 0 0 0
+                0 0 0 0 0
+                1 0 0 0 0
+                0 0 0 0.85 0" result="pink1"/>
+      <feGaussianBlur stdDeviation="5" result="blur2"/>
+      <feColorMatrix in="blur2" type="matrix"
+        values="1 0 0 0 0
+                0 0 0 0 0
+                1 0 0 0 0
+                0 0 0 0.95 0" result="pink2"/>
+      <feMerge>
+        <feMergeNode in="pink1"/>
+        <feMergeNode in="pink2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="12" r="1" fill="var(--neon)" opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="90" fill="url(#dots)"/>
+
+  <path d="M30,20 L30,62 L70,62 L92,78 L420,78 L450,64 L750,64 L780,78 L1108,78 L1130,62 L1170,62 L1170,20"
+        fill="none" stroke="var(--neon)" stroke-width="8"
+        stroke-linecap="round" stroke-linejoin="round"
+        filter="url(#neonGlow)"/>
+
+  <path d="M30,20 L30,62 L70,62 L92,78 L420,78 L450,64 L750,64 L780,78 L1108,78 L1130,62 L1170,62 L1170,20"
+        fill="none" stroke="#ffffff" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round"
+        opacity="0.55"/>
+
+  <path d="M60,36 L60,56 L96,56 L116,68 L410,68"
+        fill="none" stroke="var(--neon)" stroke-width="4"
+        stroke-linecap="round" opacity="0.85" filter="url(#neonGlow)"/>
+  <path d="M790,68 L1084,68 L1104,56 L1140,56 L1140,36"
+        fill="none" stroke="var(--neon)" stroke-width="4"
+        stroke-linecap="round" opacity="0.85" filter="url(#neonGlow)"/>
+
+  <path d="M560,78 L600,54 L640,78"
+        fill="none" stroke="var(--neon)" stroke-width="6"
+        opacity="0.95" filter="url(#neonGlow)"/>
+</svg>
