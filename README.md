@@ -8,16 +8,18 @@
 <p align="center"><img src="./assets/neon_mid_orange.svg" width="100%" alt="divider"/></p>
 
 ### 👨‍💻 About
-- 🎓 CS + Data Science student
-- 🧠 Interests: artificial intelligence, data structures, algorithms, ML/data analysis
-- 🛠️ Building: projects that turn data → insight → code
-- 🌱 Currently improving: problem-solving + clean engineering practices
+CS + Data Science student focused on building things that are **correct**, **efficient**, and **data-driven**.
+
+- 🧠 Interests: data structures & algorithms, data analysis, database design
+- 🛠️ I work with: Python (data/automation), Java (OOP + DSA), R (stats/analysis), Bash (scripting)
+- 🗃️ Databases: SQL + RDBMS concepts (joins, keys, normalization, indexing, schema design)
+- ✅ Workflow: version control with Git/GitHub, development in VS Code + Replit
 
 <p align="center"><img src="./assets/neon_mid_purple.svg" width="100%" alt="divider"/></p>
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,linux,github,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,py,r,bash,git,github,vscode,replit,mysql,postgres,sqlite&perline=11" />
 </p>
 
 <p align="center"><img src="./assets/neon_mid_cyan.svg" width="100%" alt="divider"/></p>
