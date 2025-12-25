@@ -5,6 +5,23 @@
 <h2 align="center">ＢＯＯＴＩＮＧ　ＰＲＯＦＩＬＥ… ✅</h2>
 <p align="center"><code>INIT</code> → <code>LOAD</code> → <code>RUN</code></p>
 
+<p align="center"><img src="./assets/neon_mid_orange.svg" width="100%" alt="divider"/></p>
+
+### 👨‍💻 About
+- 🎓 CS + Data Science student
+- 🧠 Interests: artificial intelligence, data structures, algorithms, ML/data analysis
+- 🛠️ Building: projects that turn data → insight → code
+- 🌱 Currently improving: problem-solving + clean engineering practices
+
+<p align="center"><img src="./assets/neon_mid_purple.svg" width="100%" alt="divider"/></p>
+
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,git,linux,github,vscode&perline=10" />
+</p>
+
+<p align="center"><img src="./assets/neon_mid_cyan.svg" width="100%" alt="divider"/></p>
+
 <!--
 **invisible-doctor2810/invisible-doctor2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
