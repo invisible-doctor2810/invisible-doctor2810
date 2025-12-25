@@ -16,11 +16,6 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Force commit settings
-          committer_token: ${{ secrets.METRICS_TOKEN }}
-          committer_branch: main
-
           filename: assets/metrics.svg
           config_theme: tokyonight
 
