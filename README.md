@@ -51,7 +51,7 @@ I’m a CS + Data Science student who enjoys building efficient solutions and ma
   → [Repo](https://github.com/invisible-doctor2810)  
 
 - 🧠 **DSA Rebuild Lab** — rebuilding a clean, test-driven library of data structures + algorithms (arrays, linked lists, hashing, trees, graphs, DP) with complexity notes and benchmarking.  
-  → [Repo](#)
+  → [Repo](https://github.com/invisible-doctor2810/java-dsa-toolkit)
 
 - 🗃️ **SQL + Python Mini Projects** — small data workflows using MySQL and Python-integrated SQL (querying, joins, schema design), plus analysis/visualization in R/Python.  
   → [Repo](#)
